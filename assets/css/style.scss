@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.statusBroken {
+    color: #c00004;
+}
+.statusCompiling {
+    color: #a69000;
+}
+.statusTesting {
+    color: #00a73a;
+}
+.statusUnknown {
+    color: #919191;
+}
