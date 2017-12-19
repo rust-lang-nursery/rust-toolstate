@@ -16,15 +16,15 @@
     {
         "tool": "rls",
         "windows": "Broken",
-        "linux": "Broken",
-        "commit": "0000000000000000000000000000000000000000",
-        "datetime": "1970-01-01T00:00:00Z"
+        "linux": "Compiling",
+        "commit": "76a1cbbda46c9b7ebab053e674a82679bde7771d",
+        "datetime": "2017-12-19T21:19:23Z"
     },
     {
         "tool": "rustfmt",
         "windows": "Broken",
-        "linux": "Broken",
-        "commit": "0000000000000000000000000000000000000000",
-        "datetime": "1970-01-01T00:00:00Z"
+        "linux": "Testing",
+        "commit": "76a1cbbda46c9b7ebab053e674a82679bde7771d",
+        "datetime": "2017-12-19T21:19:23Z"
     }
 ]
