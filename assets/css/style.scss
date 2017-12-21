@@ -3,15 +3,15 @@
 
 @import "{{ site.theme }}";
 
-.statusBroken {
+.status-build-fail {
     color: #c00004;
 }
-.statusCompiling {
+.status-test-fail {
     color: #a69000;
 }
-.statusTesting {
+.status-test-pass {
     color: #00a73a;
 }
-.statusUnknown {
+.status-unknown {
     color: #919191;
 }

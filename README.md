@@ -15,12 +15,12 @@ Currently these four tools are tracked:
 
 These tools can be in one of the following states:
 
-* **Broken** — the tool cannot be compiled at all, possibly due to recent
+* **build fail** — the tool cannot be compiled at all, possibly due to recent
     changes of the compiler internal APIs.
 
-* **Compiling** — the tool can be compiled, but some tests failed.
+* **test fail** — the tool can be compiled, but some tests failed.
 
-* **Testing** — everything working correctly :)
+* **test pass** — everything working correctly :)
 
 Whenever the state changes, a commit will be pushed which mentions the maintainers on GitHub. This
 notifies them to update the tool and sync with the Rust compiler repository.
