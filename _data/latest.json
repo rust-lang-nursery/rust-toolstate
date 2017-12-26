@@ -15,16 +15,16 @@
     },
     {
         "tool": "rls",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "76a1cbbda46c9b7ebab053e674a82679bde7771d",
-        "datetime": "2017-12-19T21:19:23Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "503153e9506890c31749768474506e0b4e3eb4ef",
+        "datetime": "2017-12-26T21:18:39Z"
     },
     {
         "tool": "rustfmt",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "76a1cbbda46c9b7ebab053e674a82679bde7771d",
-        "datetime": "2017-12-19T21:19:23Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "503153e9506890c31749768474506e0b4e3eb4ef",
+        "datetime": "2017-12-26T21:18:39Z"
     }
 ]
