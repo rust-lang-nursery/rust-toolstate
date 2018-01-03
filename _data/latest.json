@@ -22,9 +22,9 @@
     },
     {
         "tool": "rustfmt",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "f0e5c953e4be3b5aee49cdcc0b1c244681392961",
-        "datetime": "2017-12-29T16:52:58Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "0f4ebf9f0a3196420e25cf1558b49ea3f38643c4",
+        "datetime": "2018-01-03T06:26:27Z"
     }
 ]
