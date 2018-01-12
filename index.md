@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| Tool | Linux | Windows | First affected commit |
+| Tool | Linux | Windows | In this state since…  |
 |-----:|:-----:|:-------:|:----------------------|
 {%- for status in site.data.latest %}
 | {{ status.tool }}
