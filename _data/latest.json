@@ -26,5 +26,33 @@
         "linux": "test-pass",
         "commit": "b71cbd8443990efa2b697f7eedfd825fd3f7b0b1",
         "datetime": "2018-01-19T10:20:06Z"
+    },
+    {
+        "tool": "book",
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "0000000000000000000000000000000000000000",
+        "datetime": "1970-01-01T00:00:00Z"
+    },
+    {
+        "tool": "nomicon",
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "0000000000000000000000000000000000000000",
+        "datetime": "1970-01-01T00:00:00Z"
+    },
+    {
+        "tool": "reference",
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "0000000000000000000000000000000000000000",
+        "datetime": "1970-01-01T00:00:00Z"
+    },
+    {
+        "tool": "rust-by-example",
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "0000000000000000000000000000000000000000",
+        "datetime": "1970-01-01T00:00:00Z"
     }
 ]
