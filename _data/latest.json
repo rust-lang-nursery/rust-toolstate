@@ -29,30 +29,30 @@
     },
     {
         "tool": "book",
-        "windows": "test-fail",
+        "windows": "test-pass",
         "linux": "test-pass",
-        "commit": "89f74e21317085c7fa9e15c87bc308065b9cd358",
-        "datetime": "2018-02-22T21:09:07Z"
+        "commit": "9cb18a92ad87852c4c5d6726b8fbe8c38deda4ba",
+        "datetime": "2018-03-02T08:56:53Z"
     },
     {
         "tool": "nomicon",
-        "windows": "test-fail",
+        "windows": "test-pass",
         "linux": "test-pass",
-        "commit": "89f74e21317085c7fa9e15c87bc308065b9cd358",
-        "datetime": "2018-02-22T21:09:07Z"
+        "commit": "9cb18a92ad87852c4c5d6726b8fbe8c38deda4ba",
+        "datetime": "2018-03-02T08:56:53Z"
     },
     {
         "tool": "reference",
-        "windows": "test-fail",
+        "windows": "test-pass",
         "linux": "test-pass",
-        "commit": "89f74e21317085c7fa9e15c87bc308065b9cd358",
-        "datetime": "2018-02-22T21:09:07Z"
+        "commit": "9cb18a92ad87852c4c5d6726b8fbe8c38deda4ba",
+        "datetime": "2018-03-02T08:56:53Z"
     },
     {
         "tool": "rust-by-example",
-        "windows": "test-fail",
+        "windows": "test-pass",
         "linux": "test-pass",
-        "commit": "89f74e21317085c7fa9e15c87bc308065b9cd358",
-        "datetime": "2018-02-22T21:09:07Z"
+        "commit": "9cb18a92ad87852c4c5d6726b8fbe8c38deda4ba",
+        "datetime": "2018-03-02T08:56:53Z"
     }
 ]
