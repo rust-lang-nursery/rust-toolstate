@@ -1,4 +1,5 @@
 Commit	Status
+7222241e7c2d7caf9ad6ee6e34748e4addfb8dd3	{"miri":"build-fail","nomicon":"test-pass","rustfmt":"test-pass","book":"test-pass","clippy-driver":"build-fail","rls":"test-pass","rust-by-example":"test-pass","reference":"test-pass"}
 56714acc5eb0687ed9a7566fdebe5528657fc5b3	{"rust-by-example":"test-pass","reference":"test-pass","rls":"test-pass","miri":"build-fail","nomicon":"test-pass","book":"test-pass","clippy-driver":"build-fail","rustfmt":"test-pass"}
 01d0be99257f5942ddc1168db1a7b5a472cf2c31	{"nomicon":"test-pass","clippy-driver":"build-fail","rust-by-example":"test-pass","miri":"build-fail","book":"test-pass","reference":"test-pass","rls":"test-pass","rustfmt":"test-pass"}
 4bf76d6745046af32d0c0f33484aa15bab1c0e2c	{"rust-by-example":"test-pass","miri":"build-fail","reference":"test-pass","book":"test-pass","rustfmt":"test-pass","clippy-driver":"build-fail","rls":"test-pass","nomicon":"test-pass"}
