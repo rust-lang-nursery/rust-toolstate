@@ -29,10 +29,10 @@
     },
     {
         "tool": "book",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "29ee65411c46b8f701bd1f241725092cb1b347e6",
-        "datetime": "2018-07-18T14:03:35Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "8928de74394f320d1109da6731b12638a2167945",
+        "datetime": "2018-08-19T12:23:09Z"
     },
     {
         "tool": "nomicon",
