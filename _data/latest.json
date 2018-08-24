@@ -29,17 +29,17 @@
     },
     {
         "tool": "book",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "8928de74394f320d1109da6731b12638a2167945",
-        "datetime": "2018-08-19T12:23:09Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "727eabd68143e968d8826ee29b8ea7792d29fa96",
+        "datetime": "2018-08-24T19:22:46Z"
     },
     {
         "tool": "nomicon",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "b2397437530eecef72a1524a7e0a4b42034fa360",
-        "datetime": "2018-08-06T19:17:03Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "727eabd68143e968d8826ee29b8ea7792d29fa96",
+        "datetime": "2018-08-24T19:22:46Z"
     },
     {
         "tool": "reference",
