@@ -1,10 +1,10 @@
 [
     {
         "tool": "clippy-driver",
-        "windows": "build-fail",
-        "linux": "build-fail",
-        "commit": "7cbcdae81879893f02f681d945402acedba89c7c",
-        "datetime": "2018-10-02T01:10:59Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "1c5e9c68ea6c76fe400528de17ebe03e338bac68",
+        "datetime": "2018-10-02T13:15:41Z"
     },
     {
         "tool": "miri",
@@ -15,10 +15,10 @@
     },
     {
         "tool": "rls",
-        "windows": "build-fail",
-        "linux": "build-fail",
-        "commit": "7cbcdae81879893f02f681d945402acedba89c7c",
-        "datetime": "2018-10-02T01:10:59Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "1c5e9c68ea6c76fe400528de17ebe03e338bac68",
+        "datetime": "2018-10-02T13:15:41Z"
     },
     {
         "tool": "rustfmt",
