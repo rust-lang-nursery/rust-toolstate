@@ -15,10 +15,10 @@
     },
     {
         "tool": "rls",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "2a5de33193b4a96af0af7faff2a8b6d6f1b5989f",
-        "datetime": "2018-10-15T13:20:21Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "7b0735a832dd49cb482084590eb0f2577955c079",
+        "datetime": "2018-10-26T02:59:44Z"
     },
     {
         "tool": "rustfmt",
