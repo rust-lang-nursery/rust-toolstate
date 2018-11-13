@@ -12,7 +12,7 @@ layout: default
 <span class="status-{{ status.windows }}">{{ status.windows | replace: '-', ' ' }}</span>
 {{- "|" -}}
 <a href="https://github.com/rust-lang/rust/commits/{{ status.commit }}">{{ status.commit | truncate: 9, "" }}</a> on <date datetime="{{ status.datetime }}">{{ status.datetime | date: "%Y-%m-%d %H:%M:%S" }}</date> |
-{%- endfor -%}
+{%- endfor %}
 
 The table above reflects the real-time status on the master branch. 
 Please also check <https://mexus.github.io/rustup-components-history/> for availability of each component on nightly.
