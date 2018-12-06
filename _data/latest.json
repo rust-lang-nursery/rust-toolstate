@@ -8,24 +8,24 @@
     },
     {
         "tool": "miri",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "7139e1c3ab0f6b912955f27a0f7df13c582ce5ec",
-        "datetime": "2018-12-03T12:00:34Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "128a1fa4e1f85e04f522653bb9bee83ed6523440",
+        "datetime": "2018-12-06T12:42:46Z"
     },
     {
         "tool": "rls",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "c14ab13e618958bcb353b4e3c2eb2228475aa1ab",
-        "datetime": "2018-11-26T00:53:33Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "128a1fa4e1f85e04f522653bb9bee83ed6523440",
+        "datetime": "2018-12-06T12:42:46Z"
     },
     {
         "tool": "rustfmt",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "52c785bfc24e43c668c9022cc1e79edcd6dcfd7c",
-        "datetime": "2018-08-08T08:39:04Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "128a1fa4e1f85e04f522653bb9bee83ed6523440",
+        "datetime": "2018-12-06T12:42:46Z"
     },
     {
         "tool": "book",
