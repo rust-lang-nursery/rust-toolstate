@@ -50,9 +50,9 @@
     },
     {
         "tool": "rust-by-example",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "9cb18a92ad87852c4c5d6726b8fbe8c38deda4ba",
-        "datetime": "2018-03-02T08:56:53Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "a8a2a887d0a65fff6c777f9bcd7b1c0bdfbbddc0",
+        "datetime": "2018-12-16T23:24:28Z"
     }
 ]
