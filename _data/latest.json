@@ -1,10 +1,10 @@
 [
     {
         "tool": "clippy-driver",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "a36b960df626cbb8bea74f01243318b73f0bd201",
-        "datetime": "2019-01-02T14:37:47Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "c0bbc3927e28c22edefe6a1353b5ecc95ea9a104",
+        "datetime": "2019-01-03T20:30:36Z"
     },
     {
         "tool": "miri",
