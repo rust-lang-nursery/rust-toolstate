@@ -16,9 +16,9 @@
     {
         "tool": "rls",
         "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "f6fac4225f4ea4881e9146f0a14f2cd36b8ac22f",
-        "datetime": "2019-02-03T23:54:32Z"
+        "linux": "test-fail",
+        "commit": "4314dbaa761d463d136592ab7fc9cdae46c8cc2a",
+        "datetime": "2019-02-04T04:01:41Z"
     },
     {
         "tool": "rustfmt",
