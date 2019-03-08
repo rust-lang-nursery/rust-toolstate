@@ -15,4 +15,4 @@ layout: default
 {%- endfor %}
 
 The table above reflects the real-time status on the master branch. 
-Please also check <https://mexus.github.io/rustup-components-history/> for availability of each component on nightly.
+Please also check <https://rust-lang.github.io/rustup-components-history/> for availability of each component on nightly.
