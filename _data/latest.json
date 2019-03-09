@@ -54,5 +54,12 @@
         "linux": "test-pass",
         "commit": "68fe5182c967259ef89dbe313e4bf80f45a53e7e",
         "datetime": "2019-01-05T20:23:43Z"
+    },
+    {
+        "tool": "embedded-book",
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "2e08bb1dd2863b94943fdca5a57ff2188e87623f",
+        "datetime": "2019-02-10T04:34:12Z"
     }
 ]
