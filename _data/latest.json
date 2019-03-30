@@ -57,10 +57,10 @@
     },
     {
         "tool": "embedded-book",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "2e08bb1dd2863b94943fdca5a57ff2188e87623f",
-        "datetime": "2019-02-10T04:34:12Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "e782d790f1b63d82af39248bebe027f92d891bcc",
+        "datetime": "2019-03-29T21:46:53Z"
     },
     {
         "tool": "edition-guide",
