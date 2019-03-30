@@ -61,5 +61,12 @@
         "linux": "test-pass",
         "commit": "e782d790f1b63d82af39248bebe027f92d891bcc",
         "datetime": "2019-03-29T21:46:53Z"
+    },
+    {
+        "tool": "edition-guide",
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "e782d790f1b63d82af39248bebe027f92d891bcc",
+        "datetime": "2019-03-29T18:09:51Z"
     }
 ]
