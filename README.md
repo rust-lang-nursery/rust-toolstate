@@ -8,10 +8,10 @@ The latest status can be read from https://rust-lang-nursery.github.io/rust-tool
 
 Currently these four tools are tracked:
 
-* [clippy](https://github.com/rust-lang-nursery/rust-clippy)
-* [miri](https://github.com/solson/miri/)
-* [rls](https://github.com/rust-lang-nursery/rls/)
-* [rustfmt](https://github.com/rust-lang-nursery/rustfmt/)
+* [clippy](https://github.com/rust-lang/rust-clippy)
+* [miri](https://github.com/rust-lang/miri)
+* [rls](https://github.com/rust-lang/rls)
+* [rustfmt](https://github.com/rust-lang/rustfmt)
 
 These tools can be in one of the following states:
 
