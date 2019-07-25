@@ -22,10 +22,10 @@
     },
     {
         "tool": "rustfmt",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "4d66b7b76df04c29422ae3385920abb5cb947cff",
-        "datetime": "2019-02-19T12:53:35Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "890881f8f4c77e8670d4b32104c0325fcfefc90f",
+        "datetime": "2019-07-25T22:35:26Z"
     },
     {
         "tool": "book",
