@@ -43,10 +43,10 @@
     },
     {
         "tool": "reference",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "8996328ebf34aa73e83a1db326767c11041f811d",
-        "datetime": "2019-08-06T12:02:45Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "2628f579f6246df385acf9203bf2ffb6aedf5ccc",
+        "datetime": "2019-08-08T12:48:54Z"
     },
     {
         "tool": "rust-by-example",
@@ -72,8 +72,8 @@
     {
         "tool": "rustc-guide",
         "windows": "test-pass",
-        "linux": "test-fail",
-        "commit": "2c13edcd9d64f640261c488e04459733313f3843",
-        "datetime": "2019-08-04T07:21:03Z"
+        "linux": "test-pass",
+        "commit": "2628f579f6246df385acf9203bf2ffb6aedf5ccc",
+        "datetime": "2019-08-08T12:48:54Z"
     }
 ]
