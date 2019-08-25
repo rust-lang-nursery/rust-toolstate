@@ -72,8 +72,8 @@
     {
         "tool": "rustc-guide",
         "windows": "test-pass",
-        "linux": "test-fail",
-        "commit": "9267119019b48b0c3c6fb44cd3cbab64b2a1a6b5",
-        "datetime": "2019-08-25T04:27:30Z"
+        "linux": "test-pass",
+        "commit": "d760df5aea483aae041c9a241e7acacf48f75035",
+        "datetime": "2019-08-25T11:41:47Z"
     }
 ]
