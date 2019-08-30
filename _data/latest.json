@@ -8,17 +8,17 @@
     },
     {
         "tool": "miri",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "53df91a9b24ad999e7ca896447af6f5f74fe43bc",
-        "datetime": "2019-08-27T20:09:48Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "19a38de68a8de14fe49e96b315db026bd57b9696",
+        "datetime": "2019-08-30T10:26:35Z"
     },
     {
         "tool": "rls",
         "windows": "test-pass",
-        "linux": "test-fail",
-        "commit": "c7d4df0fcfc3ed3ee98a430e451c6776e90d65ae",
-        "datetime": "2019-08-30T06:50:20Z"
+        "linux": "test-pass",
+        "commit": "19a38de68a8de14fe49e96b315db026bd57b9696",
+        "datetime": "2019-08-30T10:26:35Z"
     },
     {
         "tool": "rustfmt",
