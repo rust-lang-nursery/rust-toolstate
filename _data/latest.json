@@ -1,17 +1,17 @@
 [
     {
         "tool": "clippy-driver",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "80b861bed17ba2ce001911f78a5316f56466642f",
-        "datetime": "2019-10-13T03:38:27Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "437ca55f23b7ed0051334a7e38ecabd83a173b53",
+        "datetime": "2019-10-15T15:15:43Z"
     },
     {
         "tool": "miri",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "80b861bed17ba2ce001911f78a5316f56466642f",
-        "datetime": "2019-10-13T03:38:27Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "437ca55f23b7ed0051334a7e38ecabd83a173b53",
+        "datetime": "2019-10-15T15:15:43Z"
     },
     {
         "tool": "rls",
