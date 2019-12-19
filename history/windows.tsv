@@ -1,6 +1,5 @@
-Commit	Status4de4d3834c1b48a35a5cd44f195fec9a107ee9bb
-	{"rustc-guide":"test-pass","clippy-driver":"test-pass","reference":"test-pass","rust-by-example":"test-pass","nomicon":"test-pass","edition-guide":"test-pass","rls":"test-pass","book":"test-pass","miri":"test-fail","rustfmt":"test-pass","rustbook":"test-fail","embedded-book":"test-pass"}
-
+Commit	Status
+4de4d3834c1b48a35a5cd44f195fec9a107ee9bb    {"rustc-guide":"test-pass","clippy-driver":"test-pass","reference":"test-pass","rust-by-example":"test-pass","nomicon":"test-pass","edition-guide":"test-pass","rls":"test-pass","book":"test-pass","miri":"test-fail","rustfmt":"test-pass","rustbook":"test-fail","embedded-book":"test-pass"}
 0ecb374d13d500af84e0453ffde16d81cb97b52a	{"reference":"test-pass","nomicon":"test-pass","rls":"build-fail","rustbook":"test-fail","clippy-driver":"build-fail","rust-by-example":"test-pass","book":"test-pass","rustfmt":"test-pass","edition-guide":"test-pass","rustc-guide":"test-pass","embedded-book":"test-pass","miri":"test-pass"}
 4abb0ad2731e9ac6fd5d64d4cf15b7c82e4b5a81	{"rustbook":"test-fail","edition-guide":"test-pass","embedded-book":"test-pass","book":"test-pass","nomicon":"test-pass","reference":"test-pass","rust-by-example":"test-pass","miri":"test-pass","rustc-guide":"test-pass","rls":"build-fail","rustfmt":"test-pass","clippy-driver":"test-pass"}
 e862c01aadb2d029864f7bb256cf6c85bbb5d7e4	{"embedded-book":"test-pass","rls":"build-fail","rustfmt":"test-pass","rust-by-example":"test-pass","nomicon":"test-pass","book":"test-pass","clippy-driver":"test-pass","reference":"test-pass","miri":"build-fail","rustbook":"test-fail","edition-guide":"test-pass","rustc-guide":"test-pass"}
@@ -1511,7 +1510,7 @@ c89ca247abc066fc3e334fca68a1a3ae517d8802	{"miri":"build-fail","rustfmt":"test-pa
 2789b067da2ac921b86199bde21dd231ace1da39	{"rust-by-example":"test-pass","miri":"build-fail","rls":"test-pass","nomicon":"test-pass","reference":"test-pass","book":"test-pass","rustfmt":"test-pass","clippy-driver":"build-fail"}
 b977e044a7485a95852bfce12f1054bcc673355d	{"nomicon":"test-pass","rustfmt":"test-pass","reference":"test-pass","clippy-driver":"build-fail","rust-by-example":"test-pass","rls":"test-pass","miri":"build-fail","book":"test-pass"}
 6f2100b92cb14fbea2102701af6a3ac5814bd06c	{"clippy-driver":"build-fail","reference":"test-pass","rls":"test-pass","rustfmt":"test-pass","book":"test-pass","miri":"build-fail","rust-by-example":"test-pass","nomicon":"test-pass"}
-2c68c7329f7bc5464e08ed915f93b3981273bb68	
+2c68c7329f7bc5464e08ed915f93b3981273bb68
 1733a61141d125beb45587dd89d54cd4a01cdd5a	{"reference":"test-pass","rls":"test-pass","rustfmt":"test-pass","nomicon":"test-pass","miri":"build-fail","rust-by-example":"test-pass","clippy-driver":"build-fail","book":"test-pass"}
 d9455e8a7f272c0fec238dbba7af39b560dbf2f0	{"rust-by-example":"test-pass","rustfmt":"test-pass","miri":"build-fail","rls":"test-pass","book":"test-pass","clippy-driver":"build-fail","reference":"test-pass","nomicon":"test-pass"}
 c9334404f06a188854af33835a0efe1e834e4ac4	{"rls":"test-pass","miri":"build-fail","nomicon":"test-pass","rustfmt":"test-pass","clippy-driver":"build-fail","book":"test-pass","reference":"test-pass","rust-by-example":"test-pass"}
@@ -1564,7 +1563,7 @@ bedbad61195d2eae69b43eca49c6d3e2aee8f208	{"clippy-driver":"build-fail","rustfmt"
 fe7075b26eee6f395b2a80efacb46c43aeda3bb2	{"clippy-driver":"build-fail","rls":"test-pass","miri":"build-fail","rustfmt":"test-pass"}
 28a1e4ffefa2620ad9f4179ea339833448874fd3	{"clippy-driver":"test-pass","miri":"build-fail","rustfmt":"test-pass","rls":"test-pass"}
 b6393016e9cf566a0ce22ccd9a271d840732f4fa	{"miri":"build-fail","rustfmt":"test-pass","rls":"test-pass","clippy-driver":"test-pass"}
-5cf88399a481c644642439d59e059f836c157576	
+5cf88399a481c644642439d59e059f836c157576
 48582e5a3def7dfb419e1c1508e198e922f101cc	{"miri":"build-fail","rustfmt":"test-pass","rls":"test-pass","clippy-driver":"test-pass"}
 6070d3e47e5e9f15575a3bd33583358b52bc6eda	{"miri":"build-fail","rls":"test-pass","rustfmt":"test-pass","clippy-driver":"test-pass"}
 9dfe47b606ba17ed948ae455bcce4dd723e606c7	{"rls":"test-pass","clippy-driver":"test-pass","miri":"build-fail","rustfmt":"test-pass"}
