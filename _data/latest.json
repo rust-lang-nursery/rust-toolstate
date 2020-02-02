@@ -8,10 +8,10 @@
     },
     {
         "tool": "miri",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "117ceeba400e69aa7b8ba5155acd1c8c0cdf7f7f",
-        "datetime": "2020-01-16T17:44:33Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "e5b150edafc0e72cd7f5f3f67a4e8b417d515b01",
+        "datetime": "2020-02-02T02:55:53Z"
     },
     {
         "tool": "rls",
@@ -36,10 +36,10 @@
     },
     {
         "tool": "nomicon",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "910ec6d97ff03549c22352d7763be02b60d73470",
-        "datetime": "2018-11-21T19:08:35Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "e5b150edafc0e72cd7f5f3f67a4e8b417d515b01",
+        "datetime": "2020-02-02T02:55:53Z"
     },
     {
         "tool": "reference",
@@ -72,8 +72,8 @@
     {
         "tool": "rustc-guide",
         "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "6c0b779b7bb23ad1bead914e8023642cc2368406",
-        "datetime": "2020-02-01T15:04:06Z"
+        "linux": "test-fail",
+        "commit": "e5b150edafc0e72cd7f5f3f67a4e8b417d515b01",
+        "datetime": "2020-02-02T02:55:53Z"
     }
 ]
