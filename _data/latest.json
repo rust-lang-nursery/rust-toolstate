@@ -9,9 +9,9 @@
     {
         "tool": "miri",
         "windows": "test-pass",
-        "linux": "test-fail",
-        "commit": "2c462a2f776b899d46743b1b44eda976e846e61d",
-        "datetime": "2020-02-20T22:44:31Z"
+        "linux": "test-pass",
+        "commit": "834bc5650acf7019a53b409db68986857822812c",
+        "datetime": "2020-02-24T18:17:42Z"
     },
     {
         "tool": "rls",
