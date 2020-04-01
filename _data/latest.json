@@ -1,10 +1,10 @@
 [
     {
         "tool": "clippy-driver",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "2113659479a82ea69633b23ef710b58ab127755e",
-        "datetime": "2020-03-30T20:53:56Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "58dd1ce8383aaebcad9b6027b89a316fd868b35c",
+        "datetime": "2020-04-01T01:30:30Z"
     },
     {
         "tool": "miri",
@@ -29,17 +29,17 @@
     },
     {
         "tool": "book",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "57e1da59cd0761330b4ea8d47b16340a78eeafa9",
-        "datetime": "2020-03-19T03:35:05Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "58dd1ce8383aaebcad9b6027b89a316fd868b35c",
+        "datetime": "2020-04-01T01:30:30Z"
     },
     {
         "tool": "nomicon",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "2fbb07525e2f07a815e780a4268b11916248b5a9",
-        "datetime": "2020-03-26T15:40:12Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "58dd1ce8383aaebcad9b6027b89a316fd868b35c",
+        "datetime": "2020-04-01T01:30:30Z"
     },
     {
         "tool": "reference",
