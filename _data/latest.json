@@ -8,10 +8,10 @@
     },
     {
         "tool": "miri",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "34f7f55e7aad1cedbddf6fecb4f293377d0cfd1d",
-        "datetime": "2020-04-03T13:43:14Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "42abbd8878d3b67238f3611b0587c704ba94f39c",
+        "datetime": "2020-04-07T16:59:39Z"
     },
     {
         "tool": "rls",
@@ -36,10 +36,10 @@
     },
     {
         "tool": "nomicon",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "127a11a344eb59b5aea1464e98257c262dcba967",
-        "datetime": "2020-04-02T09:11:14Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "42abbd8878d3b67238f3611b0587c704ba94f39c",
+        "datetime": "2020-04-07T16:59:39Z"
     },
     {
         "tool": "reference",
