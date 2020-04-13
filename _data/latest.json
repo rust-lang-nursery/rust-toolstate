@@ -8,10 +8,10 @@
     },
     {
         "tool": "miri",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "94d346360da50f159e0dc777dc9bc3c5b6b51a00",
-        "datetime": "2020-04-09T23:19:27Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "8e18e26f12b1e8b3e913b15278bf6185f0f61add",
+        "datetime": "2020-04-13T23:04:27Z"
     },
     {
         "tool": "rls",
@@ -79,8 +79,8 @@
     {
         "tool": "rustc-dev-guide",
         "windows": "test-pass",
-        "linux": "test-fail",
-        "commit": "c58c53274401acdc739f177aa3e408241e2e52d8",
-        "datetime": "2020-04-13T19:48:31Z"
+        "linux": "test-pass",
+        "commit": "8e18e26f12b1e8b3e913b15278bf6185f0f61add",
+        "datetime": "2020-04-13T23:04:27Z"
     }
 ]
