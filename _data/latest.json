@@ -36,10 +36,10 @@
     },
     {
         "tool": "nomicon",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "42abbd8878d3b67238f3611b0587c704ba94f39c",
-        "datetime": "2020-04-07T16:59:39Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "7ced01a730e8fc1bae2f8d4369c26812c0484da4",
+        "datetime": "2020-04-30T22:13:48Z"
     },
     {
         "tool": "reference",
