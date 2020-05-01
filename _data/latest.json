@@ -15,10 +15,10 @@
     },
     {
         "tool": "rls",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "6db2094c909309ab1c25a571d6111825b49c822c",
-        "datetime": "2020-04-28T05:02:31Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "a91d64873f5b8daa43f0e82dedad7e2bc39e8fba",
+        "datetime": "2020-05-01T15:22:27Z"
     },
     {
         "tool": "rustfmt",
@@ -72,8 +72,8 @@
     {
         "tool": "rustc-dev-guide",
         "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "be8589fc31162bb71b0f765beba6ce73ec8ba93a",
-        "datetime": "2020-04-30T19:02:05Z"
+        "linux": "test-fail",
+        "commit": "a91d64873f5b8daa43f0e82dedad7e2bc39e8fba",
+        "datetime": "2020-05-01T15:22:27Z"
     }
 ]
