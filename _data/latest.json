@@ -8,10 +8,10 @@
     },
     {
         "tool": "miri",
-        "windows": "test-pass",
+        "windows": "test-fail",
         "linux": "test-pass",
-        "commit": "e59b08e62ea691916d2f063cac5aab4634128022",
-        "datetime": "2020-07-10T01:24:50Z"
+        "commit": "23744c84d9c0f8e4e870edb983f1ad6d33449c34",
+        "datetime": "2020-07-14T23:43:19Z"
     },
     {
         "tool": "rls",
