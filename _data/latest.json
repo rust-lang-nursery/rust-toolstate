@@ -1,17 +1,17 @@
 [
     {
         "tool": "miri",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "cae8bc1f2324e31c98cb32b8ed37032fc9cef405",
-        "datetime": "2020-10-10T14:43:55Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "25d2d09da7af7fcbb0661a3ff2cd1a7fba3be86e",
+        "datetime": "2020-10-11T03:34:48Z"
     },
     {
         "tool": "rls",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "66936de05962e7e90adb265fb102042c34c7cbfe",
-        "datetime": "2020-10-02T00:49:34Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "25d2d09da7af7fcbb0661a3ff2cd1a7fba3be86e",
+        "datetime": "2020-10-11T03:34:48Z"
     },
     {
         "tool": "rustfmt",
