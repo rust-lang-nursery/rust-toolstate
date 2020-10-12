@@ -8,10 +8,10 @@
     },
     {
         "tool": "rls",
-        "windows": "build-fail",
-        "linux": "build-fail",
-        "commit": "25d2d09da7af7fcbb0661a3ff2cd1a7fba3be86e",
-        "datetime": "2020-10-11T03:34:48Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "8dae8cdcc8fa879cea6a4bbbfa5b32e97be4c306",
+        "datetime": "2020-10-12T23:05:52Z"
     },
     {
         "tool": "rustfmt",
