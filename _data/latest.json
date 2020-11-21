@@ -36,10 +36,10 @@
     },
     {
         "tool": "reference",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "1d5241c96208ca7d925442b1a5fa45ad18717a6f",
-        "datetime": "2020-03-08T14:44:38Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "502c477b3417f18e4e45b4e6e37da9965a033051",
+        "datetime": "2020-11-21T08:07:01Z"
     },
     {
         "tool": "rust-by-example",
