@@ -1,10 +1,10 @@
 [
     {
         "tool": "miri",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "822fa7cb0d15e3587b6307f6c576958898616eea",
-        "datetime": "2020-11-21T13:12:31Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "3ff10e74a74ed093fcabac1de27fe1cd65bbbb4a",
+        "datetime": "2020-12-04T22:20:25Z"
     },
     {
         "tool": "rls",
@@ -29,10 +29,10 @@
     },
     {
         "tool": "nomicon",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "285fc7d704fcdd7b2a37d475d04d5d955490e000",
-        "datetime": "2020-09-16T22:37:38Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "3ff10e74a74ed093fcabac1de27fe1cd65bbbb4a",
+        "datetime": "2020-12-04T22:20:25Z"
     },
     {
         "tool": "reference",
