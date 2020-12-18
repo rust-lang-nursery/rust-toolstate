@@ -9,9 +9,9 @@
     {
         "tool": "rls",
         "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "5957f208a5def92a5ee85e71b01f75904c1ba4ff",
-        "datetime": "2020-12-06T08:10:20Z"
+        "linux": "test-fail",
+        "commit": "fee693d08e98d25f566075cbed73e12236c05abd",
+        "datetime": "2020-12-18T08:45:48Z"
     },
     {
         "tool": "rustfmt",
