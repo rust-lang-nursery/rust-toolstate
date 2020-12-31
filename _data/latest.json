@@ -8,10 +8,10 @@
     },
     {
         "tool": "rls",
-        "windows": "test-pass",
+        "windows": "test-fail",
         "linux": "test-pass",
-        "commit": "d8d3ab96aa94423f1bdfbb605098a506ab5edc7e",
-        "datetime": "2020-12-18T11:40:09Z"
+        "commit": "44e3daf5eee8263dfc3a2509e78ddd1f6f783a0e",
+        "datetime": "2020-12-31T17:48:29Z"
     },
     {
         "tool": "rustfmt",
