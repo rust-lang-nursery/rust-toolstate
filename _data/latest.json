@@ -8,17 +8,17 @@
     },
     {
         "tool": "rls",
-        "windows": "build-fail",
-        "linux": "build-fail",
-        "commit": "26c7e55f47bf3a93a2e369d162dcc02ddf106f3a",
-        "datetime": "2021-03-25T05:07:59Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "1284da34da56a17ae368e4673920ec4120562cbd",
+        "datetime": "2021-04-12T18:30:03Z"
     },
     {
         "tool": "rustfmt",
-        "windows": "build-fail",
-        "linux": "build-fail",
-        "commit": "26c7e55f47bf3a93a2e369d162dcc02ddf106f3a",
-        "datetime": "2021-03-25T05:07:59Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "1284da34da56a17ae368e4673920ec4120562cbd",
+        "datetime": "2021-04-12T18:30:03Z"
     },
     {
         "tool": "book",
