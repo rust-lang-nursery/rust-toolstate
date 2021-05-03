@@ -14,13 +14,6 @@
         "datetime": "2021-04-25T01:57:28Z"
     },
     {
-        "tool": "rustfmt",
-        "windows": "build-fail",
-        "linux": "build-fail",
-        "commit": "b56b175c6c3d77f66793b2062b6325f822c87136",
-        "datetime": "2021-04-25T01:57:28Z"
-    },
-    {
         "tool": "book",
         "windows": "test-pass",
         "linux": "test-pass",
