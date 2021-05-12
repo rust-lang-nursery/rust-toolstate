@@ -1,24 +1,24 @@
 [
     {
         "tool": "miri",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "506e75cbf8cb5305e49a41326307004ca3976029",
-        "datetime": "2021-05-11T13:06:25Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "e1ff91f439bc09f566da211c6449821b4e949279",
+        "datetime": "2021-05-12T13:33:58Z"
     },
     {
         "tool": "rls",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "e002ac7e8a1eb04961a722c44b3ffbad575a6caa",
-        "datetime": "2021-05-08T05:39:37Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "e1ff91f439bc09f566da211c6449821b4e949279",
+        "datetime": "2021-05-12T13:33:58Z"
     },
     {
         "tool": "rustfmt",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "24acc388da2cdbe1ec79b6933402941b6fffb26b",
-        "datetime": "2021-05-05T13:32:43Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "e1ff91f439bc09f566da211c6449821b4e949279",
+        "datetime": "2021-05-12T13:33:58Z"
     },
     {
         "tool": "book",
