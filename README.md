@@ -10,7 +10,6 @@ Currently these tools are tracked:
 
 * [miri](https://github.com/rust-lang/miri)
 * [rls](https://github.com/rust-lang/rls)
-* [rustfmt](https://github.com/rust-lang/rustfmt)
 * All the external books
 
 These tools can be in one of the following states:
