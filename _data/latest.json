@@ -8,10 +8,10 @@
     },
     {
         "tool": "rls",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "9a700d2947f2d7f97a2c0dfca3117a8dcc255bdd",
-        "datetime": "2021-05-26T19:22:34Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "9a72afa7dd5689da1844695086d1f89130956a88",
+        "datetime": "2021-05-30T04:03:05Z"
     },
     {
         "tool": "book",
