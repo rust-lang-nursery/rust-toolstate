@@ -9,9 +9,9 @@
     {
         "tool": "rls",
         "windows": "test-pass",
-        "linux": "test-fail",
-        "commit": "6830052c7b87217886324129bffbe096e485d415",
-        "datetime": "2021-06-26T07:35:51Z"
+        "linux": "test-pass",
+        "commit": "481971978fda83aa7cf1f1f3c80cfad822377cf2",
+        "datetime": "2021-06-26T10:52:35Z"
     },
     {
         "tool": "book",
