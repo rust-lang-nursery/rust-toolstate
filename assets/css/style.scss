@@ -1,7 +1,12 @@
 ---
 ---
 
+/*
 @import "{{ site.theme }}";
+// the above caused page compilation error on 2021-07-25.
+// see https://github.com/pages-themes/cayman/issues/130 for details.
+*/
+@import 'jekyll-theme-cayman';
 
 .status-build-fail {
     color: #c00004;
