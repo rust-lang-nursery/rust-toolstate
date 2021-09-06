@@ -1,10 +1,10 @@
 [
     {
         "tool": "miri",
-        "windows": "build-fail",
-        "linux": "build-fail",
-        "commit": "e2750baf53aaa60db95f10759f6cf9463dc5a6bd",
-        "datetime": "2021-09-05T18:55:52Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "1698e3cac54aa8691d4e9e207567672af8231cb6",
+        "datetime": "2021-09-06T23:58:36Z"
     },
     {
         "tool": "rls",
