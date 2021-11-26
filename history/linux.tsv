@@ -1,4 +1,5 @@
 Commit	Status
+1e79d79dac11ce121b972fbaa0db9b0d1756b991	{"miri":"test-pass","nomicon":"test-pass","rust-by-example":"test-pass","rls":"test-pass","rustbook":"test-fail","book":"test-pass","embedded-book":"test-pass","reference":"test-pass","edition-guide":"test-pass","cargo-miri":"test-fail"}
 a7836bf885e70aaf1a2e0d4669406b183a79acaa	{"reference":"test-pass","miri":"test-pass","cargo-miri":"test-fail","rls":"test-pass","rustbook":"test-fail","embedded-book":"test-pass","book":"test-pass","nomicon":"test-pass","edition-guide":"test-pass","rust-by-example":"test-pass"}
 9adfd9db78b274bd710a94d7778cbd5db11b9241	{"book":"test-pass","embedded-book":"test-pass","rls":"test-pass","rustbook":"test-fail","miri":"test-pass","edition-guide":"test-pass","cargo-miri":"test-fail","reference":"test-pass","nomicon":"test-pass","rust-by-example":"test-pass"}
 84f699c72792fb6f072385b9843d7df631cf6837	{"edition-guide":"test-pass","cargo-miri":"test-fail","rustbook":"test-fail","embedded-book":"test-pass","book":"test-pass","nomicon":"test-pass","miri":"test-pass","reference":"test-pass","rust-by-example":"test-pass","rls":"test-pass"}
