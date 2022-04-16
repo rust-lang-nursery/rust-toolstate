@@ -1,10 +1,10 @@
 [
     {
         "tool": "miri",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "18f32b73bdb3833c18c73fe3062bde8e1721ccca",
-        "datetime": "2022-04-10T17:20:12Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "c8422403f775126c40d558838d321c063554c822",
+        "datetime": "2022-04-16T11:44:01Z"
     },
     {
         "tool": "rls",
@@ -43,10 +43,10 @@
     },
     {
         "tool": "embedded-book",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "e782d790f1b63d82af39248bebe027f92d891bcc",
-        "datetime": "2019-03-29T21:46:53Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "c8422403f775126c40d558838d321c063554c822",
+        "datetime": "2022-04-16T11:44:01Z"
     },
     {
         "tool": "edition-guide",
