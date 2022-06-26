@@ -2,9 +2,9 @@
     {
         "tool": "miri",
         "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "9cf699d2ff4ff23a6d6862a35727f4d5d3567dae",
-        "datetime": "2022-06-25T20:44:53Z"
+        "linux": "test-fail",
+        "commit": "0e1a6fb463e7075572cee841525bf44a864da807",
+        "datetime": "2022-06-26T09:42:38Z"
     },
     {
         "tool": "rls",
