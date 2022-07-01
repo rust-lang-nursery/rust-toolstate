@@ -2,16 +2,16 @@
     {
         "tool": "miri",
         "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "7b68106ffb71f853ea32f0e0dc0785d9d647cbbf",
-        "datetime": "2022-06-30T09:21:21Z"
+        "linux": "test-fail",
+        "commit": "5018181c79a6fe37913fd931005ad2a63c85be7b",
+        "datetime": "2022-07-01T20:14:49Z"
     },
     {
         "tool": "rls",
         "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "02916c4c75912f70b651c0b20b501444ce2ca231",
-        "datetime": "2022-06-01T04:30:15Z"
+        "linux": "test-fail",
+        "commit": "5018181c79a6fe37913fd931005ad2a63c85be7b",
+        "datetime": "2022-07-01T20:14:49Z"
     },
     {
         "tool": "book",
