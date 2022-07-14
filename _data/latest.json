@@ -1,17 +1,17 @@
 [
     {
         "tool": "miri",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "cbb07c27a4d78f95557a6b9cdcc32f98d67a0c22",
-        "datetime": "2022-07-14T02:23:10Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "0ed9c64c3e63acac9bd77abce62501696c390450",
+        "datetime": "2022-07-14T11:00:41Z"
     },
     {
         "tool": "rls",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "46b8c23f3eb5e4d0e0aa27eb3f20d5b8fc3ed51f",
-        "datetime": "2022-07-01T22:55:37Z"
+        "windows": "build-fail",
+        "linux": "build-fail",
+        "commit": "0ed9c64c3e63acac9bd77abce62501696c390450",
+        "datetime": "2022-07-14T11:00:41Z"
     },
     {
         "tool": "book",
