@@ -29,10 +29,10 @@
     },
     {
         "tool": "reference",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "a289cfcfb32593c63d75f113547f63ffe2dde285",
-        "datetime": "2022-07-19T16:34:13Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "8aedb9c68dceebef23439541337a321252036b54",
+        "datetime": "2022-07-23T02:42:26Z"
     },
     {
         "tool": "rust-by-example",
