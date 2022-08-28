@@ -9,7 +9,6 @@ The latest status can be read from https://rust-lang-nursery.github.io/rust-tool
 Currently these tools are tracked:
 
 * [miri](https://github.com/rust-lang/miri)
-* [rls](https://github.com/rust-lang/rls)
 * All the external books
 
 These tools can be in one of the following states:

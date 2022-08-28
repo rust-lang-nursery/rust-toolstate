@@ -7,13 +7,6 @@
         "datetime": "2022-08-27T00:38:19Z"
     },
     {
-        "tool": "rls",
-        "windows": "build-fail",
-        "linux": "build-fail",
-        "commit": "20ffea6938b5839c390252e07940b99e3b6a889a",
-        "datetime": "2022-08-11T20:49:35Z"
-    },
-    {
         "tool": "book",
         "windows": "test-pass",
         "linux": "test-pass",
