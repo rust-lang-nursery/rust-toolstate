@@ -1,4 +1,5 @@
 Commit	Status
+56a35bc906be1250a76fdb9a4b70e9261e10aec5	{"rust-by-example":"test-pass","book":"test-pass","embedded-book":"test-pass","edition-guide":"test-pass","reference":"test-pass","nomicon":"test-pass","rustbook":"test-fail"}
 edadc7ccdda644ef8149869d2f24018a1dac202a	{"reference":"test-pass","rustbook":"test-fail","nomicon":"test-pass","edition-guide":"test-pass","rust-by-example":"test-pass","book":"test-pass","embedded-book":"test-pass"}
 1215af3aa9b15b7aa634f8cd025c251fe4b3f2b4	{"book":"test-pass","rust-by-example":"test-pass","embedded-book":"test-pass","reference":"test-pass","nomicon":"test-pass","edition-guide":"test-pass","rustbook":"test-fail"}
 744e397d8855f7da87d70aa8d0bd9e0f5f0b51a1	{"nomicon":"test-pass","edition-guide":"test-pass","reference":"test-pass","rust-by-example":"test-pass","embedded-book":"test-pass","book":"test-pass","rustbook":"test-fail"}
