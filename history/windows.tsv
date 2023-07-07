@@ -1,4 +1,5 @@
 Commit	Status
+06082086b42629adee0d37e4e67aa1816a447e23	{"cargo-credential-wincred":"test-fail","cargo-credential-1password":"test-fail","cargo":"test-fail","edition-guide":"test-pass","book":"test-pass","lld-wrapper":"test-fail","embedded-book":"test-pass","cargotest":"test-fail","nomicon":"test-pass","rustbook":"test-fail","rust-by-example":"test-pass","reference":"test-pass"}
 85bf07972a1041b9e25393b803d0e006bec3eaaf	{"book":"test-pass","rustbook":"test-fail","rust-by-example":"test-pass","reference":"test-pass","embedded-book":"test-pass","nomicon":"test-pass","edition-guide":"test-pass"}
 87c8c83ec73eb0dd42e255f82813afa3dde24a57	{"nomicon":"test-pass","rustbook":"test-fail","reference":"test-pass","embedded-book":"test-pass","edition-guide":"test-pass","book":"test-pass","rust-by-example":"test-pass"}
 c4c84df3b34a84506e16093fb4b9ac5cac1ee75a	{"nomicon":"test-pass","edition-guide":"test-pass","book":"test-pass","rustbook":"test-fail","embedded-book":"test-pass","rust-by-example":"test-pass","reference":"test-pass"}
