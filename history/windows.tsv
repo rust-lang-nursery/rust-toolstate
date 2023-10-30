@@ -1,4 +1,5 @@
 Commit	Status
+a395214a3a88be976eec9256987d5eb6b3584bdc	{"nomicon":"test-pass","cargotest":"test-fail","embedded-book":"test-pass","edition-guide":"test-pass","lld-wrapper":"test-fail","cargo":"test-fail","rust-by-example":"test-pass","book":"test-pass","reference":"test-pass","rustbook":"test-fail"}
 31bc7e2c47e82798a392c770611975a6883132c8	{"reference":"test-pass","book":"test-pass","rustbook":"test-fail","edition-guide":"test-pass","cargotest":"test-fail","rust-by-example":"test-pass","lld-wrapper":"test-fail","nomicon":"test-pass","embedded-book":"test-pass","cargo":"test-fail"}
 236ac911de2f4b6210ba99e25c6c4843c9381a1a	{"edition-guide":"test-pass","cargo":"test-fail","book":"test-pass","rust-by-example":"test-pass","nomicon":"test-pass","lld-wrapper":"test-fail","embedded-book":"test-pass","cargotest":"test-fail","reference":"test-pass","rustbook":"test-fail"}
 e6e931dda5fffbae0fd87c5b1af753cc95556880	{"reference":"test-pass","cargotest":"test-fail","lld-wrapper":"test-fail","book":"test-pass","nomicon":"test-pass","cargo":"test-fail","embedded-book":"test-pass","rustbook":"test-fail","rust-by-example":"test-pass","edition-guide":"test-pass"}
