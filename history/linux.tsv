@@ -1,4 +1,5 @@
 Commit	Status
+eb45c844407968ea54df0d9870ebce9e3235b706	{"nomicon":"test-pass","llvm-bitcode-linker":"test-fail","book":"test-pass","edition-guide":"test-pass","rust-by-example":"test-pass","rustbook":"test-fail","embedded-book":"test-pass","reference":"test-pass"}
 a83caa281341b38d946a28ce0993da54d7edca9a	{"nomicon":"test-pass","rust-by-example":"test-pass","embedded-book":"test-pass","rustbook":"test-fail","reference":"test-pass","llvm-bitcode-linker":"test-fail","edition-guide":"test-pass","book":"test-pass"}
 35dfc67d94c47a6c6ae28c46e7dc1c547f772485	{"rust-by-example":"test-pass","rustbook":"test-fail","embedded-book":"test-pass","reference":"test-pass","llvm-bitcode-linker":"test-fail","nomicon":"test-pass","book":"test-pass","edition-guide":"test-pass"}
 a0c20d52e0e83f0bdd5c4f24295def8b276de314	{"reference":"test-pass","book":"test-pass","embedded-book":"test-pass","nomicon":"test-pass","rustbook":"test-fail","rust-by-example":"test-pass","edition-guide":"test-pass","llvm-bitcode-linker":"test-fail"}
