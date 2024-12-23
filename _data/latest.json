@@ -15,10 +15,10 @@
     },
     {
         "tool": "reference",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "3dc1b9f5c00ca5535505c1ec46ccd43b8d9cfa19",
-        "datetime": "2024-10-25T01:15:55Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "85c39893a761fe4c050523278da4e7e45ab42b6e",
+        "datetime": "2024-12-23T12:16:01Z"
     },
     {
         "tool": "rust-by-example",
