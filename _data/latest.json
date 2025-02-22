@@ -36,9 +36,9 @@
     },
     {
         "tool": "edition-guide",
-        "windows": "test-pass",
-        "linux": "test-pass",
-        "commit": "c705b7d6f748823352f95247835a5839dcbd7bed",
-        "datetime": "2025-02-04T06:02:26Z"
+        "windows": "test-fail",
+        "linux": "test-fail",
+        "commit": "b87eda7fdf8034c52b3abef52b443b8573484eda",
+        "datetime": "2025-02-22T06:07:00Z"
     }
 ]
