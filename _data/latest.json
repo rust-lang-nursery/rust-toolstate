@@ -37,8 +37,8 @@
     {
         "tool": "edition-guide",
         "windows": "test-pass",
-        "linux": "test-fail",
-        "commit": "df1ae0f7dd168513de2d89beb2cb7a95d4fdc118",
-        "datetime": "2026-07-15T13:33:21Z"
+        "linux": "test-pass",
+        "commit": "421875f8d2bbb9a9a47db179092a3266b87106d4",
+        "datetime": "2026-07-17T19:56:38Z"
     }
 ]
