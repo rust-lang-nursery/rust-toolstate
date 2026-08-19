@@ -8,10 +8,10 @@
     },
     {
         "tool": "nomicon",
-        "windows": "test-fail",
-        "linux": "test-fail",
-        "commit": "7608eb7b07eaf93f16d7cf5bcb2098eca87503df",
-        "datetime": "2026-08-05T21:36:57Z"
+        "windows": "test-pass",
+        "linux": "test-pass",
+        "commit": "9ba81c26fe1be0c8730083a1b6da070bc7c51726",
+        "datetime": "2026-08-19T05:53:27Z"
     },
     {
         "tool": "reference",
